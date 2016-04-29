@@ -15,7 +15,7 @@ The velox.css is free, lightweight css theme for responsive sites. With many pre
 * responsive image
 
  Predefindex styles:
-    aligns
+* aligns
     verical aligns
     floats and clear float
     background colors
