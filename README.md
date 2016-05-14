@@ -18,7 +18,7 @@ Predefined elements:
 * lists
 * badge
 * hashtag
-* hover effects<
+* hover and static effects
 
 Predefindex styles:
 * aligns
