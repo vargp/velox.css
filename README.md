@@ -3,6 +3,8 @@ The velox.css is free, lightweight css theme for responsive sites. With many pre
 
 Predefined elements:
 * containers
+* navbar
+* sidenav
 * code format and codebox for source codes
 * buttons in 5 sizes
 * messagebox
@@ -16,6 +18,7 @@ Predefined elements:
 * lists
 * badge
 * hashtag
+* hover effects<
 
 Predefindex styles:
 * aligns
@@ -27,5 +30,5 @@ Predefindex styles:
 * border roundings
 * paddings
 * margins
-* opacities
 * default font and font sizes
+* modified pre
