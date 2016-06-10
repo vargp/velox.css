@@ -21,6 +21,9 @@ Predefined elements:
 * hover and static effects
 * ads
 * tiles
+* imageviewer
+* page layouts
+* slideshow
 
 Predefindex styles:
 * aligns
