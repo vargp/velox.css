@@ -1,12 +1,14 @@
 # velox.css
-The velox.css is an easy to use and free css library for responsive sites. With many predefined elements and properties you can create webpages in short time. (The latin word velox means speedy, fast.) In the downloadable pack there are the velox.css, velox.js files, the themes and a sample page for every theme and a guide.
+The velox.css is a free and cross-browser css library for responsive sites. With many predefined elements and properties you can create webpages in short time. (The latin word velox means speedy, fast.) In the downloadable pack there are the velox.css, velox.js files, the themes and a sample page for every theme and a guide.
 
 Predefined elements:
 * containers
+* 6 page layouts
 * navbar
 * sidenav
 * code format and codebox for source codes
 * buttons in 5 sizes
+* button groups
 * messagebox
 * cookiebox
 * card for images and other small contents
@@ -22,8 +24,8 @@ Predefined elements:
 * ads
 * tiles
 * imageviewer
-* page layouts
 * slideshow
+* questionbox and answerbox
 
 Predefindex styles:
 * aligns
