@@ -27,7 +27,7 @@ Predefined elements:
 * slideshow
 * questionbox and answerbox
 
-Predefindex styles:
+Predefinded styles:
 * aligns
 * vertical aligns
 * floats and clear float
