@@ -28,10 +28,11 @@ Predefined elements:
 * hashtag
 * hover and static effects
 * ads
-* tiles
+* icons
 * imageviewer
 * slideshow
 * questionbox and answerbox
+* tabs
 
 Predefinded styles:
 * aligns
