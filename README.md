@@ -5,6 +5,10 @@ The velox.css is a free and cross-browser css library for responsive sites. With
 
 $ git clone https://github.com/Serrin/velox.css
 
+# Project site
+
+http://serrin.pe.hu/velox/
+
 # Features
 
 Predefined elements:
