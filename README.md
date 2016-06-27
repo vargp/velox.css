@@ -3,7 +3,7 @@ The velox.css is a free and cross-browser css library for responsive sites. With
 
 # How to clone
 
-git clone https://github.com/Serrin/velox.css
+$ git clone https://github.com/Serrin/velox.css
 
 # Features
 
