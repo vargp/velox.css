@@ -1,17 +1,17 @@
 # velox.css
 The velox.css is a free and cross-browser css library for responsive sites. With many predefined elements and properties you can create webpages in short time. (The latin word velox means speedy, fast.) In the downloadable pack there are the velox.css, velox.js files, the themes and a sample page for every theme and a guide.
 
-## How to clone
+### How to clone
 
 $ git clone https://github.com/Serrin/velox.css
 
-## Official site
+### Official site
 
 http://serrin.pe.hu/velox/
 
-## Features
+### Features
 
-####Predefined elements:
+##### Predefined elements:
 
 * containers
 * 6 page layouts
@@ -39,7 +39,7 @@ http://serrin.pe.hu/velox/
 * questionbox and answerbox
 * tabs
 
-#### Predefinded styles:
+##### Predefinded styles:
 
 * aligns
 * vertical aligns
