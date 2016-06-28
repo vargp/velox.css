@@ -11,7 +11,8 @@ http://serrin.pe.hu/velox/
 
 ## Features
 
-Predefined elements:
+###Predefined elements:
+
 * containers
 * 6 page layouts
 * navbar
@@ -38,7 +39,7 @@ Predefined elements:
 * questionbox and answerbox
 * tabs
 
-## Predefinded styles:
+### Predefinded styles:
 
 * aligns
 * vertical aligns
